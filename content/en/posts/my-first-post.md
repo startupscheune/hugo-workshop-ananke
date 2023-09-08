@@ -1,11 +1,11 @@
-# hugo-workshop-ananke
-Hugo Website Starter-Workshop
+---
+title: "My First Post"
+date: 2023-09-08T22:06:15+02:00
+draft: true
+---
 
-Verwendete Hugo Version: 
-- hugo v0.106.0-e08ce30fe4779e7d8a8395d7021314b915648cb4+extended
-- https://github.com/gohugoio/hugo/releases/tag/v0.106.0
+# Setup:
 
-Setup:
 1. Posts erstellen mit `hugo new posts/my-first-post.md`
 - bauen von drafts mit `hugo server --buildDrafts` oder `hugo server -D`
 2. Anpassen der config.toml
