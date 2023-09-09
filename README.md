@@ -13,3 +13,7 @@ Setup:
 - baseURL auf die URL der Produktivseite anpassen
 - siehe themes\ananke\exampleSite\config.toml als Orientierung
 3. Seite publishen mit `hugo`
+
+Git Setup:
+- git config --global user.email "DEINEMAIL"
+- git config --global user.name "DEINNAME"
