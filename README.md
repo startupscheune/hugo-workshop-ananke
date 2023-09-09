@@ -17,3 +17,22 @@ Setup:
 Git Setup:
 - git config --global user.email "DEINEMAIL"
 - git config --global user.name "DEINNAME"
+
+# Markdown Basics
+
+Maillink: E-Mail: [deine@mail.de](mailto:deine@mail.de) 
+
+Bilder einbinden: ![Alternativtext](images/dein-bild.jpg)
+- Bild muss unter static/images/ liegen
+
+Tabellen: https://markdown-syntax.de/Syntax-GFM/Tabellen/
+
+# Hilfreiche Links
+
+Hintergrund von PNG entfernen: https://www.remove.bg/de
+
+PNG zu SVG umwandeln: https://convertio.co/de/png-svg/
+
+Icons für Namen erstellen: https://namelix.com/
+
+HTML Templates: https://html5up.net/
